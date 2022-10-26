@@ -1,0 +1,12 @@
+name: ZombieArmies
+version: 1.0-SNAPSHOT
+main: me.voleia.zombiearmies.ZombieArmies
+api-version: 1.17
+prefix: MobArmies
+authors: [ Voleia ]
+description: Player can spawn army zombies
+
+commands:
+  za:
+    description: a thing
+
